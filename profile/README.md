@@ -1,21 +1,25 @@
 # DIEM-NLP
 
-Questa organizzazione raccoglie materiale didattico e scientifico in ambito *Natural Language Processing* e *Large Language Models*, sviluppati nell’ambito del corso [Natural Language Processing and Large Language Models](https://docenti.unisa.it/004322/didattica?anno=2025&id=518961&cId=10001-2022&pId=N0*N0*S2) del *Dipartimento di Ingegneria dell’Informazione ed Elettrica e Matematica Applicata (DIEM)* dell’*Università degli Studi di Salerno*.
+This organization hosts educational and scientific material in the field of *Natural Language Processing* and *Large Language Models*, developed within the course  
+[*Natural Language Processing and Large Language Models*](https://docenti.unisa.it/004322/didattica?anno=2025&id=518961&cId=10001-2022&pId=N0*N0*S2)  
+offered by the *Department of Information Engineering, Electrical Engineering and Applied Mathematics (DIEM)* at the *University of Salerno*.
 
-I repository includono:
+The repositories include:
 
-- Tesi di laurea magistrali
-- Codice di progetti e prototipi sperimentali
-- Dataset e strumenti di valutazione
-- Articoli e report di ricerca
-- Pipeline e architetture NLP per uso accademico
+- Master’s thesis projects
+- Code for research projects and experimental prototypes
+- Datasets and evaluation tools
+- Research papers and technical reports
+- NLP pipelines and architectures for academic use
 
-L'organizzazione è pensata per agevolare:
+This organization is intended to support:
 
-- Collaborazione tra studenti
-- Revisione e replicabilità dei risultati
-- Condivisione di risorse didattiche e scientifiche
-- Continuità tra progetti di corso e lavori di ricerca
+- Collaboration among students
+- Review and reproducibility of results
+- Sharing of educational and scientific resources
+- Continuity between course projects and research activities
 
+Most repositories within this organization are private and access is restricted to members only. Public repositories are limited to material supporting scientific publications.
 
-Per informazioni, domande o richieste di accesso specifiche: [Nicola Capuano](mailto:ncapuano@unisa.it)
+For information, questions, or access requests:  
+[Nicola Capuano](mailto:ncapuano@unisa.it)
