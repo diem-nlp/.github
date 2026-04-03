@@ -1,8 +1,6 @@
 # DIEM-NLP
 
-This organization hosts educational and scientific material in the field of *Natural Language Processing* and *Large Language Models*, developed within the course  
-[*Natural Language Processing and Large Language Models*](https://docenti.unisa.it/004322/didattica?anno=2025&id=518961&cId=10001-2022&pId=N0*N0*S2)  
-offered by the *Department of Information Engineering, Electrical Engineering and Applied Mathematics (DIEM)* at the *University of Salerno*.
+This organization hosts educational and scientific material in the field of *Natural Language Processing* and *Large Language Models*, developed within the course [*Natural Language Processing and Large Language Models*](https://docenti.unisa.it/004322/didattica?anno=2025&id=518961&cId=10001-2022&pId=N0*N0*S2) offered by the *Department of Information Engineering, Electrical Engineering and Applied Mathematics (DIEM)* at the *University of Salerno*.
 
 The repositories include:
 
