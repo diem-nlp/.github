@@ -17,7 +17,4 @@ This organization is intended to support:
 - Sharing of educational and scientific resources
 - Continuity between course projects and research activities
 
-Most repositories within this organization are private and access is restricted to members only. Public repositories are limited to material supporting scientific publications.
-
-For information, questions, or access requests:  
-[Nicola Capuano](mailto:ncapuano@unisa.it)
+Most repositories within this organization are private and access is restricted to members only. Public repositories are limited to material supporting scientific publications. For information, questions, or access requests: [Nicola Capuano](mailto:ncapuano@unisa.it).
